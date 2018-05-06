@@ -450,4 +450,4 @@ process.on('unhandledRejection', err => {
     console.error(`Uncaught Rejection (${err.status}): ${err && err.stack || err}`);
     logError("Unhandled rejection!", err, "-")
 });
-bot.login(process.env.TOKEN);
+bot.login("u3n6aYB0erda2JO47bpPHCG8cKo6eo2e");
