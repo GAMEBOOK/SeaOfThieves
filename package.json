@@ -1,9 +1,9 @@
 {
-  "name": "lookingforgroup",
-  "version": "0.0.1",
+  "name": "SeaOfThieves",
+  "version": "0.1",
   "main": "src/bot.js",
-  "repository": "https://github.com/starsky135/LookingForPlayers.git",
-  "author": "LFG Development Team",
+  "repository": "https://github.com/gamebook/SeaOfThieves.git",
+  "author": "DAVLD",
   "license": "MIT",
   "scripts": {
     "start": "node src/bot.js"
